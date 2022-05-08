@@ -4,7 +4,6 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include "Renderer.h"
 #include <unordered_map>
 
 struct ShaderProgramSource
